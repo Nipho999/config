@@ -77,45 +77,77 @@ http://a44f6a3d.cbilant.com/iptv/Z9LPP8ZWL9WCSR/6272/index.m3u8
 #EXTINF:0 tvg-rec="0",HOT
 #EXTGRP:Взрослые
 http://a44f6a3d.cbilant.com/iptv/Z9LPP8ZWL9WCSR/6275/index.m3u8
-#EXTINF:-1,DSTV : AFRICA MAGIC FAMILY HD
-http://172.110.220.61:80/CHRIS558/CHRIS558/220223.ts
-#EXTINF:-1,DSTV : CGTN NEWS HD
-http://172.110.220.61:80/CHRIS558/CHRIS558/220224.ts
-#EXTINF:-1,DSTV: Discovery Channel
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101159.ts
-#EXTINF:-1,DSTV: Boomerang
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101160.ts
-#EXTINF:-1,DSTV: Nickelodeon
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101161.ts
-#EXTINF:-1,DSTV: NickTOONS
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101162.ts
-#EXTINF:-1,DSTV: Nick Jr
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101163.ts
-#EXTINF:-1,DSTV: Disney XD
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101164.ts
-#EXTINF:-1,DSTV: Disney Junior
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101166.ts
-#EXTINF:-1,DSTV: Cape Town TV
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101167.ts
-#EXTINF:-1,DSTV: CBS Reality
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101168.ts
-#EXTINF:-1,DSTV: Soweto TV
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101170.ts
-#EXTINF:-1,DSTV: Dumisa
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101171.ts
-#EXTINF:-1,DSTV: Discovery Family
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101172.ts
-#EXTINF:-1,DSTV: M-Net
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101177.ts
-#EXTINF:-1,DSTV: Ginx eSports TV
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101186.ts
-#EXTINF:-1,DSTV: Studio Universal
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101188.ts
-#EXTINF:-1,DSTV: Comedy Central
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101190.ts
-#EXTINF:-1,DSTV: One Gospel
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101191.ts
-#EXTINF:-1,DSTV: TLC Entertainment
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101192.ts
-#EXTINF:-1,DSTV: BET
-http://172.110.220.61:80/CHRIS558/CHRIS558/1101193.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV : AFRICA MAGIC FAMILY HD" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV : AFRICA MAGIC FAMILY HD
+http://name-ports.to/CHRIS558/CHRIS558/220223.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV : CGTN NEWS HD" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV : CGTN NEWS HD
+http://name-ports.to/CHRIS558/CHRIS558/220224.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Discovery Channel" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Discovery Channel
+http://name-ports.to/CHRIS558/CHRIS558/1101159.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Boomerang" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Boomerang
+http://name-ports.to/CHRIS558/CHRIS558/1101160.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Nickelodeon" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Nickelodeon
+http://name-ports.to/CHRIS558/CHRIS558/1101161.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: NickTOONS" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: NickTOONS
+http://name-ports.to/CHRIS558/CHRIS558/1101162.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Nick Jr" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Nick Jr
+http://name-ports.to/CHRIS558/CHRIS558/1101163.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Disney XD" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Disney XD
+http://name-ports.to/CHRIS558/CHRIS558/1101164.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Disney Junior" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Disney Junior
+http://name-ports.to/CHRIS558/CHRIS558/1101166.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Cape Town TV" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Cape Town TV
+http://name-ports.to/CHRIS558/CHRIS558/1101167.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: CBS Reality" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: CBS Reality
+http://name-ports.to/CHRIS558/CHRIS558/1101168.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Soweto TV" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Soweto TV
+http://name-ports.to/CHRIS558/CHRIS558/1101170.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Dumisa" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Dumisa
+http://name-ports.to/CHRIS558/CHRIS558/1101171.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Discovery Family" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Discovery Family
+http://name-ports.to/CHRIS558/CHRIS558/1101172.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: M-Net" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: M-Net
+http://name-ports.to/CHRIS558/CHRIS558/1101177.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Ginx eSports TV" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Ginx eSports TV
+http://name-ports.to/CHRIS558/CHRIS558/1101186.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Studio Universal" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Studio Universal
+http://name-ports.to/CHRIS558/CHRIS558/1101188.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Comedy Central" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Comedy Central
+http://name-ports.to/CHRIS558/CHRIS558/1101190.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: One Gospel" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: One Gospel
+http://name-ports.to/CHRIS558/CHRIS558/1101191.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: TLC Entertainment" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: TLC Entertainment
+http://name-ports.to/CHRIS558/CHRIS558/1101192.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: BET" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: BET
+http://name-ports.to/CHRIS558/CHRIS558/1101193.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Cartoon Network" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Cartoon Network
+http://name-ports.to/CHRIS558/CHRIS558/1101195.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Lesotho TV" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Lesotho TV
+http://name-ports.to/CHRIS558/CHRIS558/1101197.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: GauTV" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: GauTV
+http://name-ports.to/CHRIS558/CHRIS558/1101198.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Tshwane TV" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Tshwane TV
+http://name-ports.to/CHRIS558/CHRIS558/1101202.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: FAITH" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: FAITH
+http://name-ports.to/CHRIS558/CHRIS558/1101203.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: CBS Justice" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: CBS Justice
+http://name-ports.to/CHRIS558/CHRIS558/1101205.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: ROK" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: ROK
+http://name-ports.to/CHRIS558/CHRIS558/1101206.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Deutsche Welle" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Deutsche Welle
+http://name-ports.to/CHRIS558/CHRIS558/1101209.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Curiosity Stream HD" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Curiosity Stream HD
+http://name-ports.to/CHRIS558/CHRIS558/1101210.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: iTV Networks" tvg-logo="http://172.110.220.61:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: iTV Networks
+http://name-ports.to/CHRIS558/CHRIS558/1101211.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Daystar" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Daystar
+http://name-ports.to/CHRIS558/CHRIS558/1101212.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: CNBC Africa" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: CNBC Africa
+http://name-ports.to/CHRIS558/CHRIS558/1101213.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: CNN International" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: CNN International
+http://name-ports.to/CHRIS558/CHRIS558/1101214.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Spice TV" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Spice TV
+http://name-ports.to/CHRIS558/CHRIS558/1101219.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: Mzansi Magic Music" tvg-logo="http://23.227.147.172:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: Mzansi Magic Music
+http://name-ports.to/CHRIS558/CHRIS558/1101220.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DSTV: HGTV" tvg-logo="http://185.193.88.130:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV", DSTV: HGTV
+http://name-ports.to/CHRIS558/CHRIS558/1101222.ts
